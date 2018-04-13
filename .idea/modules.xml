@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../galaxy/galaxy.iml" filepath="$PROJECT_DIR$/../galaxy/galaxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kayla.iml" filepath="$PROJECT_DIR$/kayla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../moonII/moonII.iml" filepath="$PROJECT_DIR$/../moonII/moonII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sun/sun.iml" filepath="$PROJECT_DIR$/../sun/sun.iml" />
+    </modules>
+  </component>
+</project>
